@@ -4,3 +4,5 @@ Python+ElasticSearch+Django制作搜索网站
 python爬虫爬取数据保存到elasticSearch中，Django搭建后台并读取elasticSearch中的数据并进行展示。
 
 articlespider为爬虫程序，Search_web为网站程序，还在完善中，仅供参考。
+
+zhihu爬虫中，使用的是我登录知乎之后的cookie，如果亲下载的时候无法爬取到数据，说明cookie已经过期，请替换为自己的cookie，并把cookie转换为字典格式。
