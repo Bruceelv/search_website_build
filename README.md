@@ -1,0 +1,6 @@
+# search_website_build
+Python+ElasticSearch+Django制作搜索网站
+
+python爬虫爬取数据保存到elasticSearch中，Django搭建后台并读取elasticSearch中的数据并进行展示。
+
+articlespider为爬虫程序，Search_web为网站程序，还在完善中，仅供参考。
